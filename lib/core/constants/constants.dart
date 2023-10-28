@@ -1,0 +1,11 @@
+String? token;
+const isLogin ='isLogin';
+const LOGIN = 'login';
+const HOME = 'home';
+const REGISTER = 'register';
+const UPDATE = 'update-profile';
+const User = 'employee';
+const AttendaceList = 'AttendaceLists';
+const PROFILE = 'profile';
+const Leave = 'leave';
+const Office = 'office';
